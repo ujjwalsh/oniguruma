@@ -5,7 +5,9 @@ compiler:
   - clang
 
 install: true
-
+arch:
+  - ppc64le  
+  
 branches:
   except:
     - 5.9.6
