@@ -6,7 +6,8 @@ compiler:
 
 install: true
 arch:
-  - ppc64le  
+  - ppc64le 
+  - amd64 
   
 branches:
   except:
